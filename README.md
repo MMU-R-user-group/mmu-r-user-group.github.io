@@ -1,1 +1,1 @@
-The home of the MMUser Group website
+The home of the MMUseR Group website
