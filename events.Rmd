@@ -1,0 +1,13 @@
+---
+title: ""
+output: 
+  html_document
+---
+
+<br>
+<br>
+
+<div style="float: left; padding-right: 10px;">
+  <img src=img/poster_2016-10-12.pdf style="width: 400px">
+</div>
+

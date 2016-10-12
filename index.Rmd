@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+<br>
+<br>
+<br>
+<br>
+This is the homepage of Manchester Metropolitan University's R User Group.

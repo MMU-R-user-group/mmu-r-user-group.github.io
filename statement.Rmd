@@ -1,0 +1,56 @@
+---
+title: ""
+output: 
+  html_document
+---
+
+<br>
+
+## MMUseR Group
+
+<br>
+
+#### Purpose
+
+The MMU R User Group exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all.
+
+#### MMUseR Group Sessions 
+
+**Term 1 2016-17**
+
+Sessions are held monthly, on Wednesdays, from 12.00 - 14.00:
+
+
+| Topic                         | Lead              | Date       | Place  |
+| :---------------------------- |:----------------- | :--------- | :------------------------ |
+| Interactive Github tutorial   | Reka Solymosi     | 12/10/2016 | BS 3.23 (Business School) | 
+| tbc                           |                   | 16/11/2016 | tbc                       | 
+| tbc                           |                   | 14/12/2016 | tbc                       | 
+
+#### Aims of the group
+
+* to promote the R programming language across MMU
+* to share knowledge of R
+* to explore the use of R for a wide variety of purposes including statistical analysis, data science, GIS, reporting and others yet to be discovered
+* to collaborate on problem solving using R
+* to encourage reproducibility through the sharing of R code
+
+#### Format
+
+* R User Group meetings will be a mixture of presentations, drop-in surgeries and ad hoc training sessions
+* The content of each meeting will be made up of contributions that have been volunteered by members of the group
+* There will be a rotating chair so that the group is run and developed along cooperative lines
+
+#### Outputs
+
+* We will make all R User Group material available to members and the wider R community
+* We will host a mini symposium each year to give members the opportunity to present their R outputs to the wider University
+
+#### Modus operandi
+
+* informal
+* non-hierarchical - student and teaching / research staff will be treated as equals
+* collaborative
+* supportive
+* welcoming to R users of all skill levels and those who are curious about the potential of R
+

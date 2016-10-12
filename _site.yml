@@ -1,0 +1,23 @@
+name: "MMUseR group"
+output_dir: "."
+navbar: 
+  title: "MMUseR group"
+  right:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Projects"
+      icon: fa-folder
+      href: projects.html
+    - text: "Events"
+      icon: fa-calendar-minus-o
+      href: events.html
+    - text: "Statement"
+      icon: fa-life-ring
+      href: statement.html
+    - icon: fa-github
+      href: https://github.com/MMU-R-user-group
+output:
+  html_document:
+    theme: default
+highlight: espresso
