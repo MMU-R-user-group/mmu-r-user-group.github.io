@@ -21,11 +21,11 @@ The MMU R User Group exists to bring together R users of all levels, with intere
 Sessions are held monthly, on Wednesdays, from 12.00 - 14.00:
 
 
-| Topic                         | Lead              | Date       | Place  |
-| :---------------------------- |:----------------- | :--------- | :------------------------ |
-| Interactive Github tutorial   | Reka Solymosi     | 12/10/2016 | BS 3.23 (Business School) | 
-| tbc                           |                   | 16/11/2016 | tbc                       | 
-| tbc                           |                   | 14/12/2016 | tbc                       | 
+| Topic                         | Lead                 | Date       | Place  |
+| :---------------------------- |:-----------------    | :--------- | :------------------------ |
+| Interactive Github tutorial   | Reka Solymosi (U of M) | 12/10/2016 | BS 3.23 (Business School) | 
+| Using R as a GIS              | Henry Partridge (MMU)| 16/11/2016 |   tbc in Business School    | 
+| tbc                           |                      | 14/12/2016 | tbc                       | 
 
 #### Aims of the group
 
