@@ -6,3 +6,7 @@ output:
 
 <br>
 
+### 1. Wish list of topics to cover in monthly sessions
+
+* R and spatial data
+

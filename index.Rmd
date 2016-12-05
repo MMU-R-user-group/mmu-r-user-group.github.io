@@ -1,9 +1,13 @@
 ---
-title: ""
+title: "MMU R User Group"
 ---
 
 <br>
 <br>
 <br>
 <br>
-This is the homepage of Manchester Metropolitan University's R User Group.
+
+The MMU R User Group exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all.
+
+
+[Monthly programme] (https://mmu-r-user-group.github.io/statement.html)
