@@ -4,10 +4,10 @@ title: "MMU R User Group"
 
 <br>
 <br>
-<br>
-<br>
 
 The MMU R User Group exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all.
 
 
-[Monthly programme] (https://mmu-r-user-group.github.io/statement.html)
+See our [monthly programme and aims]
+
+[monthly programme and aims]: https://mmu-r-user-group.github.io/statement.html
