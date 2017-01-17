@@ -21,8 +21,8 @@ The MMU R User Group exists to bring together R users of all levels, with intere
 Sessions are held on the middle Wednesday of each month: 
 
 
-| Topic                         | Lead                    | Date       | Place                     | Time |
-| :---------------------- |:-----------------       | :--------- | :------------------------ |:------------ |
+| Topic                 | Lead          | Date       | Place               | Time     |
+| :-------------------- |:--------------| :--------- | :-------------------|:---------|
 | Interactive Github tutorial   | Reka Solymosi (U of M)  | 12/10/2016 | BS 3.23 (Business School) |12.00 - 13.00 |
 | Using R as a GIS              | Henry Partridge (MMU)   | 16/11/2016 |   E221 (John Dalton)      |12.00 - 13.00|
 | Intro to ggplot2 / Q&A surgery| Ed Harris (MMU) / Surgery  |14/12/2016| BS 2.23 IT  (Business School) |12.00 - 13.00 |
