@@ -3,11 +3,37 @@ title: "MMU R User Group"
 ---
 
 <br>
-<br>
+
 
 The MMU R User Group exists to bring together R users of all levels, with interests in diverse fields from across the University to exchange tips, ideas and knowledge for the benefit of all.
 
 
-See our [monthly programme and aims]
+See our general [aims and format]
 
-[monthly programme and aims]: https://mmu-r-user-group.github.io/statement.html
+[aims and format]: https://mmu-r-user-group.github.io/statement.html
+
+**Term 1 2016-17**
+
+Sessions are held on the middle Wednesday of each month: 
+
+
+| Topic           | Lead          | Date       | Place         | Time     |
+| :-------------- |:--------------| :--------- | :-------------|:---------|
+| Interactive Github tutorial   | Reka Solymosi (U of M)  | 12/10/2016 | BS 3.23 (Business School) |12.00 - 13.00 |
+| Using R as a GIS              | Henry Partridge (MMU)   | 16/11/2016 |   E221 (John Dalton)      |12.00 - 13.00|
+| Intro to ggplot2 / Q&A surgery| Ed Harris (MMU) / Surgery  |14/12/2016| BS 2.23 IT  (Business School) |12.00 - 13.00 |
+|  Introduction to loops in R   | Christian Devenish      | 18/01/2017 | JD C1.02 (John Dalton)    |11.00 - 14.00|        
+|  tbc | tbc  | 15/02/2017| tbc | |
+|  tbc | tbc  | 15/03/2017| tbc | |
+|  tbc | tbc  | 19/04/2017| tbc | |
+|  tbc | tbc  | 17/05/2017| tbc | |
+
+
+
+## Previous topics
+
+* Interactive Github tutorial  
+* [Using R as a GIS](http://pracademic.io/gis.htm)  
+* Intro to ggplot2  
+* [Introduction to loops in R ](ttps://github.com/Cdevenish/Teaching/blob/master/IntroR/Intro_loops.r )  
+
