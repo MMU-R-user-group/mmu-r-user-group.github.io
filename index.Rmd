@@ -22,8 +22,8 @@ Sessions are held on the middle Wednesday of each month:
 | Interactive Github tutorial   | Reka Solymosi (U of M)  | 12/10/2016 | BS 3.23 (Business School) |12.00 - 13.00 |
 | Using R as a GIS              | Henry Partridge (MMU)   | 16/11/2016 |   E221 (John Dalton)      |12.00 - 13.00|
 | Intro to ggplot2 / Q&A surgery| Ed Harris (MMU) / Surgery  |14/12/2016| BS 2.23 IT  (Business School) |12.00 - 13.00 |
-|  Introduction to loops in R   | Christian Devenish      | 18/01/2017 | JD C1.02 (John Dalton)    |11.00 - 14.00|        
-|  tbc | tbc  | 15/02/2017| tbc | |
+|  Introduction to loops in R   | Christian Devenish      | 18/01/2017 | JD C1.02 (John Dalton)    |11.00 - 13.00|        
+|  Network Analysis / Random Forests | Grace Ellison / Ed Harris  | 15/02/2017| GM lab 120 (Geoffrey Manton) | 11.00 - 13.00|
 |  tbc | tbc  | 15/03/2017| tbc | |
 |  tbc | tbc  | 19/04/2017| tbc | |
 |  tbc | tbc  | 17/05/2017| tbc | |
