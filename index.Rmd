@@ -33,7 +33,7 @@ Sessions are held on the middle Wednesday of each month:
 ## Previous topics
 
 * Interactive Github tutorial  
-* [Using R as a GIS](http://pracademic.io/gis.html)  
+* [Using R as a GIS](https://github.com/rcatlord/tutorials/blob/master/GIS/GIS.md)  
 * Intro to ggplot2  
 * [Introduction to loops in R ](https://github.com/Cdevenish/Teaching/blob/master/IntroR/Intro_loops.r )  
 
