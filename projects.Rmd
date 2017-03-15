@@ -10,4 +10,4 @@ output:
 
 * R and spatial data
 * Data manipulation in R
-
+* Imputation of missing values
