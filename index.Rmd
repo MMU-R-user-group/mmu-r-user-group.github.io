@@ -13,7 +13,8 @@ See our general [aims and format]
 [aims and format]: https://mmu-r-user-group.github.io/statement.html
 
 
-**Check out our friends at ** [RUM]: http://rumgroup.github.io/Home  
+**Check out our friends at RUM**
+[RUM]: http://rumgroup.github.io/Home  
 
 
 **Academic year 2016-17 Programme**
