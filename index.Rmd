@@ -12,7 +12,11 @@ See our general [aims and format]
 
 [aims and format]: https://mmu-r-user-group.github.io/statement.html
 
-**Term 1 2016-17**
+
+**Check out our friends at ** [RUM]: http://rumgroup.github.io/Home  
+
+
+**Academic year 2016-17 Programme**
 
 Sessions are held on the middle Wednesday of each month: 
 
@@ -25,8 +29,9 @@ Sessions are held on the middle Wednesday of each month:
 |  Introduction to loops in R   | Christian Devenish      | 18/01/2017 | JD C1.02 (John Dalton)    |11.00 - 13.00|        
 |  Connecting to databases (Traffic analysis) / Random Forests | Nick Gould / Ed Harris  | 15/02/2017| GM lab 120 (Geoffrey Manton) | 11.00 - 13.00|
 |  Data manipulation in R (Open session) | All  | 15/03/2017| JD C 1.03 | 11.00 - 13.00 |
-|  tbc | tbc  | 19/04/2017| tbc | |
-|  tbc | tbc  | 17/05/2017| tbc | |
+|  Easter break |   | 19/04/2017| | |
+|  Using dply/tidyverse/pipes | Tom Higgenbottom | 17/05/2017| BS 3.08 | 12.00-14.00 |
+|  Last session.... | | 21/06/2017| tbc | |
 
 
 
@@ -36,4 +41,5 @@ Sessions are held on the middle Wednesday of each month:
 * [Using R as a GIS](https://github.com/rcatlord/tutorials/blob/master/GIS/GIS.md)  
 * Intro to ggplot2  
 * [Introduction to loops in R ](https://github.com/Cdevenish/Teaching/blob/master/IntroR/Intro_loops.r )  
+* dply/tidyverse/pipes
 

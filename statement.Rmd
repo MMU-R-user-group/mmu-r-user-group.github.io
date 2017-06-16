@@ -16,8 +16,6 @@ The MMU R User Group exists to bring together R users of all levels, with intere
 
 #### MMUseR Group Sessions 
 
-**Term 1 2016-17**
-
 Sessions are held on the middle Wednesday of each month. See [dates and programme]
 
 [dates and programme]: https://mmu-r-user-group.github.io/index.html
