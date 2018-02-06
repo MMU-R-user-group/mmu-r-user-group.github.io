@@ -12,6 +12,6 @@ output:
 - Download this month's poster: Please print and display:
 
 <div style="float: left; padding-right: 10px;">
-  <img src=img/MMUSER_poster21Feb2018.png style="width: 400px">
+  <a href=_site/img/MMUSER_poster21Feb2018.png><img src=_site/img/MMUSER_poster21Feb2018.png style="width: 400px">
 </div>
 
