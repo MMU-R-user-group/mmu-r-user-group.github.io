@@ -1,13 +1,17 @@
 ---
-title: ""
+title: "Upcoming events"
 output: 
   html_document
 ---
+<br>
+
+- Joint hackathon with **RUM** Watch this space!!!
 
 <br>
-<br>
+
+- Download this month's poster: Please print and display:
 
 <div style="float: left; padding-right: 10px;">
-  <img src=img/poster_2016-10-12.pdf style="width: 400px">
+  <img src=img/MMUSER_poster21Feb2018.pdf style="width: 400px">
 </div>
 
