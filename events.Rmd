@@ -12,6 +12,6 @@ output:
 - Download this month's poster: Please print and display:
 
 <div style="float: left; padding-right: 10px;">
-  <a href=_site/img/MMUSER_poster21Feb2018.png><img src=_site/img/MMUSER_poster21Feb2018.png style="width: 400px">
+  <a href=https://github.com/MMU-R-user-group/mmu-r-user-group.github.io/blob/master/_site/img/MMUSER_poster21Feb2018.png><img src=https://github.com/MMU-R-user-group/mmu-r-user-group.github.io/blob/master/_site/img/MMUSER_poster21Feb2018.png style="width: 400px">
 </div>
 
