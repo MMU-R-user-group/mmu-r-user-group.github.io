@@ -14,9 +14,21 @@ See our general [aims and format]
 
 
 **Check out our friends at RUM:** http://rumgroup.github.io/Home
+<br><br>
 
 
-**Academic year 2016-17 Programme**
+###Academic year 2017-18 Programme
+
+Session on the third Wednesday of each month
+
+| Topic           | Lead          | Date       | Place         | Time     |
+| :-------------- |:--------------| :--------- | :-------------|:---------|
+| Intro to using APIs from R | Christian Devenish | 17/01/2018 | BS 3.15 (N Atrium)| 11.00 - 13.00|
+| Intro to TraMineR | Sam Langton | 21/02/2018 | SB 3.03 (Next to Library) | 11.00 - 13.00|
+
+<br>
+
+###Academic year 2016-17 Programme
 
 Sessions are held on the middle Wednesday of each month: 
 
@@ -31,7 +43,6 @@ Sessions are held on the middle Wednesday of each month:
 |  Data manipulation in R (Open session) | All  | 15/03/2017| JD C 1.03 | 11.00 - 13.00 |
 |  Easter break |   | 19/04/2017| | |
 |  Using dply/tidyverse/pipes | Tom Higgenbottom | 17/05/2017| BS 3.08 | 12.00-14.00 |
-|  Last session.... | | 21/06/2017| tbc | |
 
 
 
@@ -42,4 +53,4 @@ Sessions are held on the middle Wednesday of each month:
 * Intro to ggplot2  
 * [Introduction to loops in R ](https://github.com/Cdevenish/Teaching/blob/master/IntroR/Intro_loops.r )  
 * dply/tidyverse/pipes
-
+* [Intro to APIs from R](https://github.com/Cdevenish/R-Material/tree/master/R%20Group/API)
