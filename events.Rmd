@@ -12,6 +12,7 @@ output:
 - Download this month's poster: Please print and display:
 
 <div style="float: left; padding-right: 10px;">
-  <a href=https://github.com/MMU-R-user-group/mmu-r-user-group.github.io/blob/master/_site/img/MMUSER_poster21Feb2018.png><img src=https://raw.githubusercontent.com/MMU-R-user-group/mmu-r-user-group.github.io/master/_site/img/MMUSER_poster21Feb2018.png style="width: 400px">
+  
+  <a href=https://raw.githubusercontent.com/MMU-R-user-group/mmu-r-user-group.github.io/master/img/MMUSER_poster21Feb2018.png><img src=https://raw.githubusercontent.com/MMU-R-user-group/mmu-r-user-group.github.io/master/img/MMUSER_poster21Feb2018.png style="width: 400px">
 </div>
 
