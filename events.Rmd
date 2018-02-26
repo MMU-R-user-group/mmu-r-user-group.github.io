@@ -5,10 +5,16 @@ output:
 ---
 <br>
 
-- Joint hackathon with **RUM** Watch this space!!!
+### Brexit Data Challenge
+Joint hackathon with **RUM** (U of Manchester R Group)<br>
+1 March 2018 - 2 pm.
+see https://www.cdrc.ac.uk/news-archive/cdrc-gisruk-data-challenge/
+
+Please let Christian Devenish (@mmu) know if you are interested in taking part. All Welcome.
 
 <br>
 
+### Next month's MMUseR session:
 - Download this month's poster: Please print and display:
 
 <div style="float: left; padding-right: 10px;">

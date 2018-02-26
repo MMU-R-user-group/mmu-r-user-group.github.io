@@ -25,6 +25,8 @@ Session on the third Wednesday of each month
 | :-------------- |:--------------| :--------- | :-------------|:---------|
 | Intro to using APIs from R | Christian Devenish | 17/01/2018 | BS 3.15 (N Atrium)| 11.00 - 13.00|
 | Intro to TraMineR | Sam Langton | 21/02/2018 | SB 3.03 (Next to Library) | 11.00 - 13.00|
+| Writing functions in R | Tom Higginbottom | 21/03/2018| SB G.07 (Law School)| 11.00 - 12.00 |
+| TBC  | TBC | 18/04/2018 | SB 1.01 (Law School) | 11.00 - 12.00 |
 
 <br>
 
@@ -54,3 +56,4 @@ Sessions are held on the middle Wednesday of each month:
 * [Introduction to loops in R ](https://github.com/Cdevenish/Teaching/blob/master/IntroR/Intro_loops.r )  
 * dply/tidyverse/pipes
 * [Intro to APIs from R](https://github.com/Cdevenish/R-Material/tree/master/R%20Group/API)
+* Intro to TraMineR (script coming soon)
