@@ -13,6 +13,8 @@ The MMU R User Group exists to bring together R users of all levels, with intere
 
 We have been sponsored by the R Consortium this year with a vector level grant! We are really grateful to them for this support, please take a moment to read the Code of Conduct for supported R Groups below or on our 'aims and format' page.
 
+[R Consortium Code of Conduct]
+
 [R Consortium Code of Conduct]: https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct
 
 See our general [aims and format]
