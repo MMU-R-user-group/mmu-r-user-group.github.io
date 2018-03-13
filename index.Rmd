@@ -2,8 +2,8 @@
 title: "MMU R User Group"
 ---
 
-<img src="img/Manchester_Met_University_Horizonal_black_logo.png" width="528" height="202"/>
-<img src="img/RConsortium_Horizontal_Pantone.png" width="881" height="199"/>
+<img src="img/Manchester_Met_University_Horizonal_black_logo.png" width="264" height="101"/>
+<img src="img/RConsortium_Horizontal_Pantone.png" width="252" height="56"/>
 
 
 <br>
