@@ -27,6 +27,7 @@ Session on the third Wednesday of each month
 | Intro to TraMineR | Sam Langton | 21/02/2018 | SB 3.03 (Next to Library) | 11.00 - 13.00|
 | Writing functions in R | Tom Higginbottom | 21/03/2018| SB G.07 (Law School)| 11.00 - 12.00 |
 | TBC  | TBC | 18/04/2018 | SB 1.01 (Law School) | 11.00 - 12.00 |
+| Introduction to R  | Sam Langton | 25/04/2018 | Righton - 1st Floor Space | 13.00 - 14.30 |
 
 <br>
 

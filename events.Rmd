@@ -1,17 +1,7 @@
 ---
 title: "Upcoming events"
-output: 
-  html_document
+output: html_document
 ---
-<br>
-
-### Brexit Data Challenge
-Joint hackathon with **RUM** (U of Manchester R Group)<br>
-1 March 2018 - 2 pm.
-see https://www.cdrc.ac.uk/news-archive/cdrc-gisruk-data-challenge/
-
-Please let Christian Devenish (@mmu) know if you are interested in taking part. All Welcome.
-
 <br>
 
 ### Next month's MMUseR session:
@@ -19,6 +9,6 @@ Please let Christian Devenish (@mmu) know if you are interested in taking part. 
 
 <div style="float: left; padding-right: 10px;">
   
-  <a href=https://raw.githubusercontent.com/MMU-R-user-group/mmu-r-user-group.github.io/master/img/MMUSER_poster21Feb2018.png><img src=https://raw.githubusercontent.com/MMU-R-user-group/mmu-r-user-group.github.io/master/img/MMUSER_poster21Feb2018.png style="width: 400px">
+  <a href=https://raw.githubusercontent.com/MMU-R-user-group/mmu-r-user-group.github.io/master/img/MMUSER_poster21Mar2018.png><img src=https://raw.githubusercontent.com/MMU-R-user-group/mmu-r-user-group.github.io/master/img/MMUSER_poster21Mar2018.png style="width: 400px">
 </div>
 
